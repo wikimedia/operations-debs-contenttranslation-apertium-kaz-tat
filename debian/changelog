@@ -1,3 +1,11 @@
+apertium-kaz-tat (0.2.1~r57554-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Clean debian/rules file.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Jun 2016 10:01:22 +0530
+
 apertium-kaz-tat (0.2.1~r57554-1) trusty; urgency=low
 
   [ Tino Didriksen ]
