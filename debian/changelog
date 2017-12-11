@@ -1,3 +1,9 @@
+apertium-kaz-tat (0.2.1~r57554-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Depends on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 11 Dec 2017 18:52:26 +0530
+
 apertium-kaz-tat (0.2.1~r57554-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
