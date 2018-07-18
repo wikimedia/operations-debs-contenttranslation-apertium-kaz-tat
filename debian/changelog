@@ -1,3 +1,9 @@
+apertium-kaz-tat (0.2.1~r57554-1+wmf3) jessie-wikimedia; urgency=low
+
+  * Fixed Build-Dep.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 18 Jul 2018 10:56:17 +0530
+
 apertium-kaz-tat (0.2.1~r57554-1+wmf2) jessie-wikimedia; urgency=low
 
   * Depends on cg3 (>= 1.0.0~r12254)
